@@ -1,0 +1,28 @@
+Longest subsequence of
+String x: hackers
+String y: hackerqwerwerwers
+is hackers
+========================
+Longest subsequence of
+String x: nothingmatches
+String y: thingches
+is thingches
+========================
+Longest subsequence of
+String x: abceeed
+String y: abcd
+is abcd
+========================
+Longest subsequence of
+String x: xxxxxxxxStringxxxxxxxxAyyyyymatheskkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkB
+String y: ppppppppStringppppppppApppppmatchesppppppppppppppB
+is StringAmathesB
+========================
+Longest subsequence of
+String x: ShouldMatch
+String y: SxhxoxuxlxdxMxaxtxcxhxyyy
+is ShouldMatch
+========================
+
+Process finished with exit code 0
+
